@@ -1,0 +1,68 @@
+ul.nuage {
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+ul li a {
+    text-decoration: none;
+    line-height: 2.3em;
+}
+
+ul li a.size1 {
+    color: #666;
+    padding: 2px;
+}
+    ul li a.size1:hover {
+        background-color: #999;
+        color: white;
+    }
+
+ul li a.size2 {
+    color: #912600;
+    padding: 12px;
+}
+    ul li a.size2:hover {
+        background-color: #cc3500;
+        color: white;
+    }
+
+ul li a.size3 {
+    color: #877900;
+    padding: 18px;
+}
+    ul li a.size3:hover {
+        background-color: #d8c100;
+        color: white;
+    }
+    
+ul li a.size4 {
+    color: #1d6c01;
+    padding: 8px;
+}
+    ul li a.size4:hover {
+        background-color: #2daf00;
+        color: white;
+    }
+ul li a.size5 {
+    color: #004e6b;
+    padding: 6px;
+}
+    ul li a.size5:hover {
+        background-color: #007ead;
+        color: white;
+    }
+    
+ul li a.size6 {
+    color: #430069;
+    padding: 24px;
+}
+    ul li a.size6:hover {
+        background-color: #7600b9;
+        color: white;
+    }
